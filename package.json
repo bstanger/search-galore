@@ -1,0 +1,13 @@
+{
+  "name": "search-galore",
+  "version": "1.0.0",
+  "description": "Coding challenge for Zenefits interview process",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Becca Stanger",
+  "license": "ISC"
+}
