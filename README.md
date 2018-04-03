@@ -1,2 +1,2 @@
 # search-galore
-Coding challenge for Zenefits interview process
+Coding challenge for an interview process
